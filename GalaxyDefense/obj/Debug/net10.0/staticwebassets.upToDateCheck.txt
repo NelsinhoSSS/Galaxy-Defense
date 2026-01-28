@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\Style.css
+wwwroot\Script.js
+C:\Projetos\GalaxyDefense\wwwroot\index.html
+C:\Projetos\GalaxyDefense\wwwroot\Style.css
+C:\Projetos\GalaxyDefense\wwwroot\Script.js
